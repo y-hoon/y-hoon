@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @y-hoon
-- 👀 I’m interested in JAVA, spring boot, javascript, python
-- 🌱 I’m currently learning spring security, python, javascript
+- 👀 I’m interested in JAVA, spring boot, javascript, python, Flutter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
